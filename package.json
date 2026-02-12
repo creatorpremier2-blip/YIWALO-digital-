@@ -1,0 +1,21 @@
+{
+  "name": "YIWALO digital",
+  "version": "1.0.0",
+  "description": "Digital Crew WhatsApp Bot 鈥� a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "automation",
+    "ai",
+    "digital",
+    "crew"
+  ],
+  "dependencies": {
+    "baileys": "npm:baileys@latest",
+    "axios": "^1.7.7",
